@@ -10,6 +10,7 @@
 -- local dict = {
 -- 	['label-text'] = {
 -- 		['en-us'] = 'text';
+-- 		['zh-cn'] = '文本';
 -- 		['ru-ru'] = 'текст';
 -- 	}
 -- }

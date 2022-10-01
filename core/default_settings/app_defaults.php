@@ -102,6 +102,7 @@
 				$sql .= "('".uuid()."', 'English - Southern Africa', 'en-za'), ";
 				$sql .= "('".uuid()."', 'English - Trinidad', 'en-tt'), ";
 				$sql .= "('".uuid()."', 'English - United States', 'en-us'), ";
+				$sql .= "('".uuid()."', 'English - United States', 'zh-cn'),";
 				$sql .= "('".uuid()."', 'Estonian', 'et'), ";
 				$sql .= "('".uuid()."', 'Faroese', 'fo'), ";
 				$sql .= "('".uuid()."', 'Farsi - Persian', 'fa'), ";

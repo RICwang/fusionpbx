@@ -194,6 +194,7 @@ if ($domains_processed == 1) {
 				$x = 0;
 				$array['email_templates'][$x]['email_template_uuid'] = '05b529c4-fba7-4071-bab3-143b076392e7';
 				$array['email_templates'][$x]['template_language'] = 'en-us';
+				$array['email_templates'][$x]['template_language'] = 'zh-cn';
 				$array['email_templates'][$x]['template_category'] = 'password_reset';
 				$array['email_templates'][$x]['template_subcategory'] = 'default';
 				$array['email_templates'][$x]['template_subject'] = 'Password Reset';

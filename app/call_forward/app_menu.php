@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Call Forward";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "呼叫转发";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Call Forward";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Rufumleitung";

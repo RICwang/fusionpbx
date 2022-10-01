@@ -9,6 +9,7 @@
 		$apps[$x]['license'] = 'Mozilla Public License 1.1';
 		$apps[$x]['url'] = 'http://www.fusionpbx.com';
 		$apps[$x]['description']['en-us'] = '';
+		$apps[$x]['description']['zh-cn'] = '';
 		$apps[$x]['description']['en-gb'] = '';
 
 	//permission details
@@ -46,44 +47,52 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = 'char(36)';
 		$apps[$x]['db'][$y]['fields'][$z]['search_by'] = 'false';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = 'Enter the application uuid.';
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = '输入应用程序uuid。';
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = 'application_name';
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = 'text';
 		$apps[$x]['db'][$y]['fields'][$z]['search_by'] = 'true';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = 'Enter the application name.';
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = '输入应用程序名称。';
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = 'permission_name';
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = 'text';
 		$apps[$x]['db'][$y]['fields'][$z]['search_by'] = 'true';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = 'Enter the permission name.';
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = '输入权限名称。';
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = 'permission_description';
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = 'text';
 		$apps[$x]['db'][$y]['fields'][$z]['search_by'] = 'true';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = 'Enter the permission description.';
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = '输入权限描述。';
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "insert_date";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['pgsql'] = 'timestamptz';
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = 'date';
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = 'date';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "insert_user";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['pgsql'] = "uuid";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = "char(36)";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "update_date";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['pgsql'] = 'timestamptz';
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = 'date';
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = 'date';
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "update_user";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['pgsql'] = "uuid";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = "char(36)";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
+		$apps[$x]['db'][$y]['fields'][$z]['description']['zh-cn'] = "";
 
 ?>

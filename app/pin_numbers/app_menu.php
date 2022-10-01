@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = 'PIN Numbers';
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = “引脚编号”;
 	$apps[$x]['menu'][$y]['title']['en-gb'] = 'PIN Numbers';
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = 'PIN Nummern';

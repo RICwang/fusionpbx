@@ -2,6 +2,7 @@ text = text or {};
 
 text['label-download'] = {};
 text['label-download']['en-us'] = "Download";
+text['label-download']['zh-cn'] = "下载";
 text['label-download']['es-cl'] = "Descargar";
 text['label-download']['pt-pt'] = "Baixar";
 text['label-download']['ru-ru'] = "Скачать";
@@ -11,6 +12,7 @@ text['label-download']['de-at'] = "Download";
 
 text['label-listen'] = {};
 text['label-listen']['en-us'] = "Listen";
+text['label-listen']['zh-cn'] = "听";
 text['label-listen']['es-cl'] = "Escuchar";
 text['label-listen']['pt-pt'] = "Ouvir";
 text['label-listen']['ru-ru'] = "Слушать";
@@ -20,6 +22,7 @@ text['label-listen']['de-at'] = "Anhören";
 
 text['label-attached'] = {};
 text['label-attached']['en-us'] = "Attached";
+text['label-attached']['zh-cn'] = "附";
 text['label-attached']['es-cl'] = "Adjunto";
 text['label-attached']['pt-pt'] = "Ligado";
 text['label-attached']['ru-ru'] = "Вложение";

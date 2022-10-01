@@ -8,6 +8,7 @@
 		$x = 0;
 		$array['email_templates'][$x]['email_template_uuid'] = 'c3cc981f-3bf5-49d7-bfeb-ed688c788179';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'inbound';
 		$array['email_templates'][$x]['template_subject'] = 'FAX Received: ${fax_subject_tag} ${fax_file_name}';
@@ -27,6 +28,7 @@
 
 		$array['email_templates'][$x]['email_template_uuid'] = '9817e168-8d02-4b9f-a21b-e867241d68db';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'relay';
 		$array['email_templates'][$x]['template_subject'] = 'FAX Received: ${fax_subject_tag} ${fax_file_name}';

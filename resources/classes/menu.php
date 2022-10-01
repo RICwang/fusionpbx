@@ -410,6 +410,7 @@ if (!class_exists('menu')) {
 									}
 									else {
 										$menu_item_title = $menu['title']['en-us'];
+										$menu_item_title = $ 菜单 ['标题']['zh-cn'];
 									}
 									$uuid = $menu['uuid'];
 									$menu_item_uuid = $uuid_array[$menu['uuid']];
@@ -478,6 +479,7 @@ if (!class_exists('menu')) {
 												$menu_item_title = $menu["title"][$menu_language];
 												if (strlen($menu_item_title) == 0) {
 													$menu_item_title = $menu["title"]['en-us'];
+													$menu_item_title = $ 菜单 [“标题”]['zh-cn'];
 												}
 
 											//build insert array
@@ -892,6 +894,7 @@ if (!class_exists('menu')) {
 						$array['menus'][0]['menu_uuid'] = $this->menu_uuid;
 						$array['menus'][0]['menu_name'] = 'default';
 						$array['menus'][0]['menu_language'] = 'en-us';
+						$array['menus'][0]['menu_language'] = 'zh-cn';
 						$array['menus'][0]['menu_description'] = 'Default Menu';
 
 					//grant temporary permissions

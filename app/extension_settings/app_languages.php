@@ -2,6 +2,7 @@
 
 	//Extension Settings
 		$text['title-extension_settings']['en-us'] = 'Extension Settings';
+		$text['title-extension_settings']['zh-cn'] = '扩展设置';
 		$text['title-extension_settings']['ar-eg'] = '';
 		$text['title-extension_settings']['de-at'] = '';
 		$text['title-extension_settings']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-extension_settings']['uk-ua'] = '';
 
 		$text['title-extension_setting']['en-us'] = 'Extension Setting';
+		$text['title-extension_setting']['zh-cn'] = '扩展设置';
 		$text['title-extension_setting']['ar-eg'] = '';
 		$text['title-extension_setting']['de-at'] = '';
 		$text['title-extension_setting']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-extension_setting']['uk-ua'] = '';
 
 		$text['title_description-extension_settings']['en-us'] = 'Assign variables and parameters to this extension.';
+		$text['title_description-extension_settings']['zh-cn'] = '将变量和参数分配给此扩展。';
 		$text['title_description-extension_settings']['ar-eg'] = '';
 		$text['title_description-extension_settings']['de-at'] = '';
 		$text['title_description-extension_settings']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-extension_settings']['uk-ua'] = '';
 
 		$text['label-extension_setting_type']['en-us'] = 'Type';
+		$text['label-extension_setting_type']['zh-cn'] = '类型';
 		$text['label-extension_setting_type']['ar-eg'] = '';
 		$text['label-extension_setting_type']['de-at'] = '';
 		$text['label-extension_setting_type']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-extension_setting_type']['uk-ua'] = '';
 
 		$text['description-extension_setting_type']['en-us'] = 'Enter the extension subcategory.';
+		$text['description-extension_setting_type']['zh-cn'] = '输入扩展子类别。';
 		$text['description-extension_setting_type']['ar-eg'] = '';
 		$text['description-extension_setting_type']['de-at'] = '';
 		$text['description-extension_setting_type']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-extension_setting_type']['uk-ua'] = '';
 
 		$text['label-param']['en-us'] = 'param';
+		$text['label-param']['zh-cn'] = '帕拉';
 		$text['label-param']['ar-eg'] = '';
 		$text['label-param']['de-at'] = '';
 		$text['label-param']['de-ch'] = '';
@@ -121,6 +127,7 @@
 		$text['label-param']['uk-ua'] = '';
 
 		$text['label-variable']['en-us'] = 'variable';
+		$text['label-variable']['zh-cn'] = '可变';
 		$text['label-variable']['ar-eg'] = '';
 		$text['label-variable']['de-at'] = '';
 		$text['label-variable']['de-ch'] = '';
@@ -140,6 +147,7 @@
 		$text['label-variable']['uk-ua'] = '';
 
 		$text['label-extension_setting_name']['en-us'] = 'Name';
+		$text['label-extension_setting_name']['zh-cn'] = '名称';
 		$text['label-extension_setting_name']['ar-eg'] = '';
 		$text['label-extension_setting_name']['de-at'] = '';
 		$text['label-extension_setting_name']['de-ch'] = '';
@@ -160,6 +168,7 @@
 		$text['label-extension_setting_name']['uk-ua'] = '';
 
 		$text['description-extension_setting_name']['en-us'] = 'Enter the extension name.';
+		$text['description-extension_setting_name']['zh-cn'] = '输入扩展名名称。';
 		$text['description-extension_setting_name']['ar-eg'] = '';
 		$text['description-extension_setting_name']['de-at'] = '';
 		$text['description-extension_setting_name']['de-ch'] = '';
@@ -180,6 +189,7 @@
 		$text['description-extension_setting_name']['uk-ua'] = '';
 
 		$text['label-extension_setting_value']['en-us'] = 'Value';
+		$text['label-extension_setting_value']['zh-cn'] = '价值';
 		$text['label-extension_setting_value']['ar-eg'] = '';
 		$text['label-extension_setting_value']['de-at'] = '';
 		$text['label-extension_setting_value']['de-ch'] = '';
@@ -200,6 +210,7 @@
 		$text['label-extension_setting_value']['uk-ua'] = '';
 
 		$text['description-extension_setting_value']['en-us'] = 'Enter the extension value.';
+		$text['description-extension_setting_value']['zh-cn'] = '输入扩展值。';
 		$text['description-extension_setting_value']['ar-eg'] = '';
 		$text['description-extension_setting_value']['de-at'] = '';
 		$text['description-extension_setting_value']['de-ch'] = '';
@@ -220,6 +231,7 @@
 		$text['description-extension_setting_value']['uk-ua'] = '';
 
 		$text['label-extension_setting_enabled']['en-us'] = 'Enabled';
+		$text['label-extension_setting_enabled']['zh-cn'] = '启用';
 		$text['label-extension_setting_enabled']['ar-eg'] = '';
 		$text['label-extension_setting_enabled']['de-at'] = '';
 		$text['label-extension_setting_enabled']['de-ch'] = '';
@@ -240,6 +252,7 @@
 		$text['label-extension_setting_enabled']['uk-ua'] = '';
 
 		$text['description-extension_setting_enabled']['en-us'] = 'Enter the extension enabled.';
+		$text['description-extension_setting_enabled']['zh-cn'] = '输入已启用的扩展。';
 		$text['description-extension_setting_enabled']['ar-eg'] = '';
 		$text['description-extension_setting_enabled']['de-at'] = '';
 		$text['description-extension_setting_enabled']['de-ch'] = '';
@@ -260,6 +273,7 @@
 		$text['description-extension_setting_enabled']['uk-ua'] = '';
 
 		$text['label-extension_setting_description']['en-us'] = 'Description';
+		$text['label-extension_setting_description']['zh-cn'] = '描述';
 		$text['label-extension_setting_description']['ar-eg'] = '';
 		$text['label-extension_setting_description']['de-at'] = '';
 		$text['label-extension_setting_description']['de-ch'] = '';
@@ -280,6 +294,7 @@
 		$text['label-extension_setting_description']['uk-ua'] = '';
 
 		$text['description-extension_setting_description']['en-us'] = 'Enter the extension description.';
+		$text['description-extension_setting_description']['zh-cn'] = '输入扩展名描述。';
 		$text['description-extension_setting_description']['ar-eg'] = '';
 		$text['description-extension_setting_description']['de-at'] = '';
 		$text['description-extension_setting_description']['de-ch'] = '';

@@ -2,6 +2,7 @@
 
 	//Sofia Global Settings
 		$text['title-sofia_global_settings']['en-us'] = 'Sofia Global Settings';
+		$text['title-sofia_global_settings']['zh-cn'] = '索非亚全球设置';
 		$text['title-sofia_global_settings']['ar-eg'] = '';
 		$text['title-sofia_global_settings']['de-at'] = '';
 		$text['title-sofia_global_settings']['de-ch'] = '';
@@ -22,6 +23,7 @@
 		$text['title-sofia_global_settings']['uk-ua'] = '';
 
 		$text['title-sofia_global_setting']['en-us'] = 'Sofia Global Setting';
+		$text['title-sofia_global_setting']['zh-cn'] = '索非亚全球设置';
 		$text['title-sofia_global_setting']['ar-eg'] = '';
 		$text['title-sofia_global_setting']['de-at'] = '';
 		$text['title-sofia_global_setting']['de-ch'] = '';
@@ -42,6 +44,7 @@
 		$text['title-sofia_global_setting']['uk-ua'] = '';
 
 		$text['title_description-sofia_global_settings']['en-us'] = 'Used to define sofia global settings.';
+		$text['title_description-sofia_global_settings']['zh-cn'] = '用于定义索非亚全局设置。';
 		$text['title_description-sofia_global_settings']['ar-eg'] = '';
 		$text['title_description-sofia_global_settings']['de-at'] = '';
 		$text['title_description-sofia_global_settings']['de-ch'] = '';
@@ -62,6 +65,7 @@
 		$text['title_description-sofia_global_settings']['uk-ua'] = '';
 
 		$text['label-global_setting_name']['en-us'] = 'Name';
+		$text['label-global_setting_name']['zh-cn'] = '名称';
 		$text['label-global_setting_name']['ar-eg'] = '';
 		$text['label-global_setting_name']['de-at'] = '';
 		$text['label-global_setting_name']['de-ch'] = '';
@@ -82,6 +86,7 @@
 		$text['label-global_setting_name']['uk-ua'] = '';
 
 		$text['description-global_setting_name']['en-us'] = 'Enter the global setting name.';
+		$text['description-global_setting_name']['zh-cn'] = '输入全局设置名称。';
 		$text['description-global_setting_name']['ar-eg'] = '';
 		$text['description-global_setting_name']['de-at'] = '';
 		$text['description-global_setting_name']['de-ch'] = '';
@@ -102,6 +107,7 @@
 		$text['description-global_setting_name']['uk-ua'] = '';
 
 		$text['label-global_setting_value']['en-us'] = 'Value';
+		$text['label-global_setting_value']['zh-cn'] = '价值';
 		$text['label-global_setting_value']['ar-eg'] = '';
 		$text['label-global_setting_value']['de-at'] = '';
 		$text['label-global_setting_value']['de-ch'] = '';
@@ -122,6 +128,7 @@
 		$text['label-global_setting_value']['uk-ua'] = '';
 
 		$text['description-global_setting_value']['en-us'] = 'Enter the global setting value.';
+		$text['description-global_setting_value']['zh-cn'] = '输入全局设置值。';
 		$text['description-global_setting_value']['ar-eg'] = '';
 		$text['description-global_setting_value']['de-at'] = '';
 		$text['description-global_setting_value']['de-ch'] = '';
@@ -142,6 +149,7 @@
 		$text['description-global_setting_value']['uk-ua'] = '';
 
 		$text['label-global_setting_enabled']['en-us'] = 'Enabled';
+		$text['label-global_setting_enabled']['zh-cn'] = '启用';
 		$text['label-global_setting_enabled']['ar-eg'] = '';
 		$text['label-global_setting_enabled']['de-at'] = '';
 		$text['label-global_setting_enabled']['de-ch'] = '';
@@ -162,6 +170,7 @@
 		$text['label-global_setting_enabled']['uk-ua'] = '';
 
 		$text['description-global_setting_enabled']['en-us'] = 'Enter the global setting enabled.';
+		$text['description-global_setting_enabled']['zh-cn'] = '输入已启用的全局设置。';
 		$text['description-global_setting_enabled']['ar-eg'] = '';
 		$text['description-global_setting_enabled']['de-at'] = '';
 		$text['description-global_setting_enabled']['de-ch'] = '';
@@ -182,6 +191,7 @@
 		$text['description-global_setting_enabled']['uk-ua'] = '';
 
 		$text['label-global_setting_description']['en-us'] = 'Description';
+		$text['label-global_setting_description']['zh-cn'] = '描述';
 		$text['label-global_setting_description']['ar-eg'] = '';
 		$text['label-global_setting_description']['de-at'] = '';
 		$text['label-global_setting_description']['de-ch'] = '';
@@ -202,6 +212,7 @@
 		$text['label-global_setting_description']['uk-ua'] = '';
 
 		$text['description-global_setting_description']['en-us'] = 'Enter the global setting description.';
+		$text['description-global_setting_description']['zh-cn'] = '输入全局设置说明。';
 		$text['description-global_setting_description']['ar-eg'] = '';
 		$text['description-global_setting_description']['de-at'] = '';
 		$text['description-global_setting_description']['de-ch'] = '';

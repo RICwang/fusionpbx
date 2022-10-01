@@ -1,6 +1,7 @@
 <?php
 
 $text['label-switch_status']['en-us'] = "Switch Status";
+$text['label-switch_status']['zh-cn'] = "开关状态";
 $text['label-switch_status']['en-gb'] = "Switch Status";
 $text['label-switch_status']['ar-eg'] = "";
 $text['label-switch_status']['de-at'] = "Switch"; //copied from de-de
@@ -23,6 +24,7 @@ $text['label-switch_status']['sv-se'] = "Switch";
 $text['label-switch_status']['uk-ua'] = "Switch";
 
 $text['label-channels']['en-us'] = "Channels";
+$text['label-channels']['zh-cn'] = "频道";
 $text['label-channels']['en-gb'] = "Channels";
 $text['label-channels']['ar-eg'] = "";
 $text['label-channels']['de-at'] = "Kanäle"; //copied from de-de
@@ -45,6 +47,7 @@ $text['label-channels']['sv-se'] = "Kanaler";
 $text['label-channels']['uk-ua'] = "Канали";
 
 $text['label-registrations']['en-us'] = "Registrations";
+$text['label-registrations']['zh-cn'] = "注册";
 $text['label-registrations']['en-gb'] = "Registrations";
 $text['label-registrations']['ar-eg'] = "";
 $text['label-registrations']['de-at'] = "Registrierungen"; //copied from de-de
@@ -67,6 +70,7 @@ $text['label-registrations']['sv-se'] = "Registreringar";
 $text['label-registrations']['uk-ua'] = "Реєстрації";
 
 $text['label-switch_uptime']['en-us'] = "Switch Uptime";
+$text['label-switch_uptime']['zh-cn'] = "切换正常运行时间";
 $text['label-switch_uptime']['en-gb'] = "Switch Uptime";
 $text['label-switch_uptime']['ar-eg'] = "";
 $text['label-switch_uptime']['de-at'] = "Switch Uptime"; //copied from de-de
@@ -89,6 +93,7 @@ $text['label-switch_uptime']['sv-se'] = "Switch Uptime";
 $text['label-switch_uptime']['uk-ua'] = "Switch Uptime";
 
 $text['label-switch']['en-us'] = "Switch";
+$text['label-switch']['zh-cn'] = "开关";
 $text['label-switch']['en-gb'] = "Switch";
 $text['label-switch']['ar-eg'] = "";
 $text['label-switch']['de-at'] = "Switch"; //copied from de-de
@@ -111,6 +116,7 @@ $text['label-switch']['sv-se'] = "Switch";
 $text['label-switch']['uk-ua'] = "Switch";
 
 $text['label-switch']['en-us'] = "Switch";
+$text['label-switch']['zh-cn'] = "开关";
 $text['label-switch']['en-gb'] = "Switch";
 $text['label-switch']['ar-eg'] = "";
 $text['label-switch']['de-at'] = "Switch"; //copied from de-de

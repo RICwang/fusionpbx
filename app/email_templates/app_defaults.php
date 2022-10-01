@@ -177,6 +177,7 @@
 
 		$array['email_templates'][$x]['email_template_uuid'] = 'fbd0c8ea-6adb-4f8b-92cf-00e9087e3568';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'voicemail';
 		$array['email_templates'][$x]['template_subcategory'] = 'default';
 		$array['email_templates'][$x]['template_subject'] = 'Voicemail from ${caller_id_name} <${caller_id_number}> ${message_duration}';
@@ -196,6 +197,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = '56bb3416-53fc-4a3d-936d-9e3ba869081d';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'voicemail';
 		$array['email_templates'][$x]['template_subcategory'] = 'default';
 		$array['email_templates'][$x]['template_subject'] = 'Voicemail from ${caller_id_name} <${caller_id_number}> ${message_duration}';
@@ -212,6 +214,7 @@
 
 		$array['email_templates'][$x]['email_template_uuid'] = '233135c9-7e3e-48d6-b6ad-ba1a383c0ac4';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'voicemail';
 		$array['email_templates'][$x]['template_subcategory'] = 'transcription';
 		$array['email_templates'][$x]['template_subject'] = 'Voicemail from ${caller_id_name} <${caller_id_number}> ${message_duration}';
@@ -234,6 +237,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = 'c8f14f37-4998-41a2-9c7b-7e810c77c570';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'voicemail';
 		$array['email_templates'][$x]['template_subcategory'] = 'transcription';
 		$array['email_templates'][$x]['template_subject'] = 'Voicemail from ${caller_id_name} <${caller_id_number}> ${message_duration}';
@@ -253,6 +257,7 @@
 
 		$array['email_templates'][$x]['email_template_uuid'] = '133860ce-175f-4a6f-bfa3-ef7322e80b98';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'missed';
 		$array['email_templates'][$x]['template_subcategory'] = 'default';
 		$array['email_templates'][$x]['template_subject'] = 'Missed Call from ${caller_id_name} <${caller_id_number}>';
@@ -267,6 +272,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = '890626c4-907b-44ad-9cf6-02d0b0a2379d';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'missed';
 		$array['email_templates'][$x]['template_subcategory'] = 'default';
 		$array['email_templates'][$x]['template_subject'] = 'Missed Call from ${caller_id_name} <${caller_id_number}>';
@@ -362,6 +368,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = 'b1eefbfc-c008-4c82-b93f-6a6df237aeaa';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'success_default';
 		$array['email_templates'][$x]['template_subject'] = 'Subject, Fax to: ${number_dialed} SENT';
@@ -376,6 +383,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = '48ce4fef-e6bd-4be6-9c76-1590e8498408';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'fail_default';
 		$array['email_templates'][$x]['template_subject'] = 'Fax to: ${number_dialed} has Failed';
@@ -390,6 +398,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = 'd64d9a03-affd-4dbf-ba04-5ad5accae4d9';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'fail_busy';
 		$array['email_templates'][$x]['template_subject'] = 'Fax to: ${number_dialed} was Busy';
@@ -404,6 +413,7 @@
 		$x++;
 		$array['email_templates'][$x]['email_template_uuid'] = '29729743-28bc-4f7b-88e1-0bdf6ff33cce';
 		$array['email_templates'][$x]['template_language'] = 'en-us';
+		$array['email_templates'][$x]['template_language'] = 'zh-cn';
 		$array['email_templates'][$x]['template_category'] = 'fax';
 		$array['email_templates'][$x]['template_subcategory'] = 'fail_invalid';
 		$array['email_templates'][$x]['template_subject'] = 'Fax to: ${number_dialed} was Invalid';
