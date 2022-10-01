@@ -2,6 +2,7 @@
 
 	$y=0;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Access Controls";
+	$apps[$x]['menu'][$y]['title']['zh-cn'] = "Access Controls";
 	$apps[$x]['menu'][$y]['title']['en-gb'] = "Access Controls";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "عناصر التحكم في الوصول";
 	$apps[$x]['menu'][$y]['title']['de-at'] = " Zugriffskontrolle";
